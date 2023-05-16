@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    height: 600px;
+    width: 1000px;
+    background-color: white;
+    margin: auto;
+    position: relative;
+    top:30px;
+}
+.borderbox{
+    height: 570px;
+    width: 950px;
+    border-style: solid;
+    border-color: gray;
+    position: absolute;
+    top: 15px;
+    left: 25px; 
+}
+.brownbox{
+    height: 90px;
+    width: 945px;
+    background-color: brown;
+    position: absolute;
+}
+.w1box{
+    height: 60px;
+    width: 70px;
+    background-color:  bisque;
+    border-radius: 7px;
+    position: absolute;
+    top: 10px;
+    left: 600px;
+}
+.w2box{
+    height: 60px;
+    width: 70px;
+    background-color:  bisque;
+    border-radius: 7px;
+    position: absolute;
+    top: 10px;
+    left: 680px;
+}
+.w3box{
+    height: 60px;
+    width: 70px;
+    background-color:  bisque;
+    border-radius: 7px;
+    position: absolute;
+    top: 10px;
+    left: 760px;
+}
+.w4box{
+    height: 60px;
+    width: 70px;
+    background-color: bisque;
+    border-radius: 7px;
+    position: absolute;
+    top: 10px;
+    left: 840px;
+}
+.text{
+    height: 50px;
+    width: 945px;
+    background-color: gray;
+    position: absolute;
+    top:90px ;
+}
+.home{
+    font-size: 20px;
+    position: absolute;
+    color: white;
+    top: 10px;
+     left: 20px;
+}
+.news{
+    font-size: 20px;
+    position: absolute;
+    color: white;
+    top: 10px;
+    left:120px;
+}
+.contact{
+    font-size: 20px;
+    position: absolute;
+    color: white;
+    top: 10px;  
+    left: 220px;
+}
+.about{
+    font-size: 20px;
+    position: absolute;
+    color: white;
+    top: 10px;
+    left: 330px;
+}
+.greenbox{
+    height: 50px;
+    width: 470px;
+    position: absolute;
+    background-color: olive;
+    left: 475px;
+}
+.bluebox{
+    height: 25px;
+    width: 300px;
+    background-color: aqua;
+    position: absolute;
+    top: 12px;
+    left: 150px;
+}
+.creamcolorbox{
+    height:260px;
+    width: 945px;
+    background-color: burlywood;
+    position: absolute;
+    top: 140px;
+}
+.blackbox{
+    height:230px;
+    width: 880px;
+    background-color: black;
+    position:absolute;
+    top: 15px;
+    left: 30px;
+}
+.bottomblue{
+    height: 40px;
+    width: 880px;
+    background-color: blue;
+    position:absolute;
+    bottom: 0px;
+}
+.yellow1{
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    background-color:orange;
+    border-radius: 8px;
+    bottom: 50px;
+    left: 30px; 
+}
+.yellow2{
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    background-color:orange;
+    border-radius: 8px;
+    bottom: 50px;
+    left: 160px; 
+}
+.white1{
+    height: 180px;
+    width: 200px;
+    background-color: white;
+    border-style: solid;
+    border-color: gray;
+    position: absolute;
+    border-radius: 9px;
+    top: 12px;
+    right: 20px;
+}
+.white2{
+    height: 180px;
+    width: 200px;
+    background-color: white;
+    border-style: solid;
+    border-color: gray;
+    position: absolute;
+    border-radius: 9px;
+    top: 40px;
+    right: 60px;
+}
+.pinkbox{
+    height: 165px;
+    width: 500px;
+    position: absolute;
+    background-color: pink;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: gray;
+    top: 400px;
+}
+.skyinsidepink{
+    height: 90px;
+    width: 400px;
+    position: absolute;
+    background-color: aquamarine;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 9px;
+    bottom: 0px;
+    left: 50px;
+}
+.skybox{
+    height: 135px;
+    width: 400px;
+    background-color: aquamarine;
+    position: absolute;
+    border-radius: 5px;
+    border-color: gray;
+    border-style: solid;
+    left: 525px;
+    top:415px ;
+}
+.insidegray{
+    height: 40px;
+    width:397px;
+    background-color: grey;
+    position: absolute;
+    top: 0px;
+    border-radius: 5px;
+}
+.home1{
+    font-size: 15px;
+    position: absolute;
+    color: white;
+    left: 5px;
+}
+.news1{
+    font-size: 15px;
+    position: absolute;
+    color: white;
+    left: 80px;
+}
+.contact1{
+    font-size: 15px;
+    position: absolute;
+    color: white;
+    left: 160px;
+}
+.about1{
+    font-size: 15px;
+    position: absolute;
+    color: white;
+    left: 250px;
+}

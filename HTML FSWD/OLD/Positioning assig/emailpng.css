@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    height: 600px;
+    width: 1000px;
+    margin: auto;
+    background-color: azure;
+    /* padding: 10px 20px; */
+    position: relative;
+
+    left: auto;
+}
+.insidebox{
+    height: 580px;
+    width: 960px;
+    margin: auto;
+    background-origin: padding-box;
+    border-color: gray;
+    border-width: 5px;
+    border-style:solid;
+    position: absolute;
+    top: 10px;
+    left : 15px;
+}
+.blackbox{
+    height: 200px;
+    width:950px;
+    background-color: black;
+    position: absolute;
+    top: 60px;
+}
+.whitebox{
+    height: 170px;
+    width: 870px;
+    background-color: white;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+.yellowbox{
+    height: 170px;
+    width: 300px;
+    background-color: yellow;
+    background-origin: padding-box;
+    border-style: solid;
+    border-color: gray;
+    position: absolute;
+    right: 0px;
+}
+.y1{
+    height: 25px;
+    width: 265px;
+    background-color: white;
+    position: absolute;
+    top: 30px;
+    left:20px;
+    background-origin: padding-box;
+    border-color: gray;
+    border-style: solid;
+}
+.y2{
+    height: 25px;
+    width: 265px;
+    background-color: white;
+    position: absolute;
+    top: 60px;
+    left:20px;
+    background-origin: padding-box;
+    border-color: gray;
+    border-style: solid;
+}
+.y3{
+    height: 40px;
+    width: 265px;
+    background-color: white;
+    position: absolute;
+    top: 100px;
+    left:20px;
+    background-origin: padding-box;
+    border-color: gray;
+    border-style: solid;    
+}
+.btn{
+    height: 25px;
+    width: 80px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 140px;
+    left: 20px;
+}
+.name{
+    height: 25px;
+    position: absolute;
+    top: 5px;
+    left: 20px;
+}
+.p1{
+    height: 180px;
+    width: 230px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 270px;
+    left: 20px;
+}
+.p2{
+    height: 180px;
+    width: 230px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 270px;
+    left: 300px;
+}
+.p3{
+    height: 180px;
+    width: 230px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 270px;
+    left: 580px;
+}
+.pin1{
+    height: 70px;
+    width: 80px;
+    background-color:royalblue;
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+}
+.pin2{
+    height: 70px;
+    width: 80px;
+    background-color:royalblue;
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+}
+.pin3{
+    height: 70px;
+    width: 80px;
+    background-color:royalblue;
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+}
+.subscribebox{
+    height: 70px;
+    width: 950px;
+    background-color: gray;
+    position: absolute;
+    top: 500px;
+    bottom: 0px;
+}
+.lastdiv{
+    height: 25px;
+    width: 110px;
+    background-color: white;
+    position: absolute;
+    top: 20px;
+    right: 130px;
+}
+.btn1{
+    height: 25px;
+    width: 80px;
+    background-color: rgb(20, 12, 12);
+    color: white;
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}   

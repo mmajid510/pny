@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.outside{
+    height: 600px;
+    width: 900px;
+    margin: auto ; 
+    position: relative;
+    background-color: white;
+     top: 20px;
+}
+.border{
+    height: 580px;
+    width: 870px;
+    /* margin: auto; */
+    position:absolute;
+    /* background-origin: padding-box; */
+    border-style: solid;
+    border-color: gray;
+    top: 8px;
+    left: 15px;
+}
+.blue{
+    height: 540px;
+    width: 820px;
+    background-color: blue;
+    position: absolute;
+    border-color: gray;
+    border-width: 8px;
+    border-style: solid;
+    top: 15px;
+    left: 20px;
+
+}
+.whitebox{
+    height: 450px;
+    width: 740px;
+    background-color: white;
+    position: absolute;
+    top: 60px;
+    left: 30px;
+    border-style: solid;
+    border-color: gray;
+    border-width: 8px;
+}
+.box1{
+    height: 25px;
+    width: 190px;
+    border-radius: 8px;
+    background-color: gray;
+    position: absolute;
+    top: 40px;
+    left: 60px;
+}
+.box2{
+    height: 25px;
+    width: 110px;
+    border-radius: 8px;
+    background-color: gray;
+    position: absolute;
+    top: 70px;
+    left: 310px;
+
+}
+.box3{
+    height: 25px;
+    width: 190px;
+    border-radius: 8px;
+    background-color: gray;
+    position: absolute;
+    top: 40px;
+    left: 480px;
+}
+.redbox{
+    height: 25px;
+    width: 250px;
+    border-radius: 8px;
+    background-color:red;
+    position: absolute;
+    top: 140px;
+    left: 245px;
+}
+.skybox{
+    height: 225px;
+    width: 725px;
+    background-color: skyblue;
+    position: absolute;
+    top: 210px;
+}
+.subwbox1{
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.subbox1{
+    height: 20px;
+    width: 100px;
+    background-color: gray;
+    position: absolute;
+    border-radius: 8px;
+    top: 10px;
+    left: 20px; 
+}
+.subbox2{
+    height: 20px;
+    width: 100px;
+    background-color: gray;
+    position: absolute;
+    border-radius: 8px;
+    top: 10px;
+    left: 170px; 
+}
+.subbox3{
+    height: 20px;
+    width: 200px;
+    background-color:blue;
+    position: absolute;
+    border-radius: 8px;
+    top: 120px;
+    left: 50px; 
+}
+.subwbox2{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    position: absolute;
+    top: 20px;
+    left: 360px;   
+}
+.sb1{
+    height: 20px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    border-radius: 8px;
+    top: 10px;
+    left: 20px;
+}
+.sb2{
+    height: 20px;
+    width: 100px;
+    background-color: gray;
+    position: absolute;
+    border-radius: 8px;
+    top: 10px;
+    left: 170px;
+}
+.sb3{
+    height: 20px;
+    width: 100px;
+    background-color: gray;
+    position: absolute;
+    border-radius: 8px;
+    top: 80px;
+    left: 20px;
+}
+.sb4{
+    height: 20px;
+    width: 100px;
+    background-color: gray;
+    position: absolute;
+    border-radius: 8px;
+    top: 80px;
+    left:170px ;
+}.sb5{
+    height: 20px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    border-radius: 8px;
+    top: 150px;
+    left:20px ;
+}
+.sb6{
+    height: 20px;
+    width: 100px;
+    background-color: gray;
+    position: absolute;
+    border-radius: 8px;
+    top: 150px;
+    left:170px ;
+}

@@ -1,0 +1,43 @@
+/* h1{
+text-align: center;
+color: brown;
+} 
+ .title4{
+     text-align: center; 
+    color: chocolate;
+    background-color: black;
+ font-size: 50; 
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style:oblique
+}
+.title1{
+    text-align: center;
+color: rgb(20, 12, 12);
+}
+.title2{
+    text-align: left;
+color: brown;
+}
+.title3{
+    text-align: right;
+color: brown;
+} */
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{background-color: blueviolet;}
+/* trbl  top right bottom left*/
+.box{
+    background-color: black;
+    color: red;
+/* width: 500px;
+height: 500px;
+margin-left: 30px;
+margin-top: 30px; */
+
+padding: left;
+
+
+}
